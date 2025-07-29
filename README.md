@@ -11,6 +11,7 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
 - [Electronics](#)
     - [Wiring Lidar and Camera](#)
     - [Wiring to Battery](#)
-- [Code](#)
+- [Code & Algorithms](#)
+    - [Used algorithms explained](#)
     - [Installing required libraries](#)
     - [Installing and running code](#)
