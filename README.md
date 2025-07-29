@@ -19,6 +19,4 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
     - [Recommended and minimal environment](#)
     - [Installing required libraries](#)
     - [Installing and running code](#)
-- [Media](#)
-    - [Photos](#)
-    - [Videos](#)
+- [Photos & Videos](#)
