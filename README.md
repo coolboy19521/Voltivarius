@@ -17,5 +17,6 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
     - [Used algorithms explained](#)
     - [Installing required libraries](#)
     - [Installing and running code](#)
-- [Photos](#)
-- [Videos](#)
+- [Media](#)
+    - [Photos](#)
+    - [Videos](#)
