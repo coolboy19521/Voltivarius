@@ -2,7 +2,7 @@
 > Our team name comes from our electric's two big interests. Electronics (Volt) and classic music (Varius).
 
 [![WRO - Future Engineers](https://img.shields.io/badge/WRO-Future_Engineers-2e52af)](https://wro-association.org/wp-content/uploads/WRO-2024-Future-Engineers-Self-Driving-Cars-General-Rules.pdf)
-[![YouTube - Race & Installing Videos](https://img.shields.io/badge/YouTube-▶️%20Opening_Race-df3e3e?logo=youtube)](https://www.youtube.com/)
+[![YouTube - Race & Installing Videos](https://img.shields.io/badge/YouTube-▶️%20Race_&_Installing_Videos-df3e3e?logo=youtube)](https://www.youtube.com/)
 
 **This README.md file contains our team report on all electronic components used, required software and mechanical design of our robot.**
 
