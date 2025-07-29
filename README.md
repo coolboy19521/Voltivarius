@@ -1,5 +1,2 @@
 # Voltivarius
-Voltivarius Team Report for WRO 2025 Future Engineers
-
-## HELLO FROM WINDOWS
-## HELLO FROM RASPBERRY
+> Our team name comes from our electric's two big interests. Electronics (Volt) and classic music (Varius).
