@@ -10,16 +10,13 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
 
 ### Table of contents
 
-- [Mechanical Design](#)
-    - [Bottom and Top of the Robot](#)
-    - [Raspberry Pi Box](#)
-- [Electronics](#)
-    - [Wiring Lidar and Camera](#)
-    - [Wiring to Battery](#)
-    - [Cost of Materials](#)
-- [Code & Algorithms](#)
-    - [Used algorithms explained](#)
-    - [Recommended and minimal environment](#)
-    - [Installing required libraries](#)
-    - [Installing and running code](#)
-- [Photos & Videos](#)
+- [Introduction](#)
+- [Report of used materials](#)
+    - [Design materials](#)
+    - [Electronic materials](#)
+        - [Sensors](#)
+        - [Motors](#)
+
+### Introduction
+
+Our robot is designed to complete WRO 2025 future engineers obstacles.
