@@ -20,3 +20,4 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
 ### Introduction
 
 Our robot is designed to complete WRO 2025 future engineers obstacles.
+
