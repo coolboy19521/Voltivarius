@@ -12,10 +12,10 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
 
 - [Introduction](#)
 - [Report of used materials](#)
-    - [Design materials](#)
-    - [Electronic materials](#)
-        - [Sensors](#)
-        - [Motors](#)
+  - [Design materials](#)
+  - [Electronic materials](#)
+    - [Sensors](#)
+    - [Motors](#)
 
 ### Introduction
 
