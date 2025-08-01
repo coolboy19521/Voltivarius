@@ -16,6 +16,18 @@ Our team consists of Əhməd Qəmbərli (Coding), Melisa Yıldız (Mechanical De
   - [Electronic materials](#)
     - [Sensors](#)
     - [Motors](#)
+- [Robot setup](#)
+  - [Printing 3D pieces](#)
+  - [Mechanic installation](#)
+  - [Electronic setup](#)
+  - [Installing Raspberry OS](#)
+- [Programming Environment Setup](#)
+  - [Raspberry OS configuration](#)
+  - [Installing used modules](#)
+  - [Running & Testing Code](#)
+- [Explanation of Strategy](#)
+- [Photos & Videos of robot](#)
+
 
 ### Introduction
 
