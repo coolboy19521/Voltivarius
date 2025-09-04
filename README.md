@@ -20,20 +20,20 @@ Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqe
 ### Table of contents
 
 - [Introduction](#introduction)
-- [Report of used materials](#)
-  - [Design materials](#)
-  - [Electronic materials](#)
+- [Report of used materials](#report-of-used-materials)
+  - [Design materials](#design-materials)
+  - [Electronic materials](#electronic-materials)
     - [Sensors](#)
     - [Motors](#)
-- [Robot setup](#)
-  - [Printing 3D pieces](#)
-  - [Electronic setup](#)
-- [Programming Environment Setup](#)
-  - [Raspberry OS configuration](#)
-  - [Installing used modules](#)
-  - [Running & Testing Code](#)
-- [Explanation of Strategy](#)
-- [Photos & Videos of robot](#)
+- [Robot setup](#robot-setup)
+  - [Printing 3D pieces](#printing-3d-pieces)
+  - [Electronic setup](#electronic-setup)
+- [Programming Environment Setup](#programming-environment-setup)
+  - [Raspberry OS configuration](#raspberry-os-configuration)
+  - [Installing used modules](#installing-used-modules)
+  - [Running & Testing Code](#running--testing-code)
+- [Explanation of Strategy](#explanation-of-strategy)
+- [Photos & Videos of robot](#photos--videos-of-robot)
 
 
 ## Introduction
@@ -59,7 +59,7 @@ You can find all design materials inside the models folder. Colors of the compon
 ...
 
 ## Programming Environment setup
-### Raspberry Pi OS Configuration
+### Raspberry OS Configuration
 >Make sure to insert an SD card of size at least 16GB to your computer. We will use it as our destination for installation.
 
 We are using Ubuntu Server 24.04.3 LTS (64-bit) as our primary OS in Raspberry Pi. You can flash this OS any way you want but recommended way is to use [Raspberry Pi Imager tool](https://www.raspberrypi.com/software/) from the official website.
