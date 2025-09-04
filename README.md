@@ -8,7 +8,14 @@
 
 **This README.md file contains our team report on all electronic components used, required software and mechanical design of our robot.**
 
-Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqemberli09](mailto:ehmedqemberli09@gmail.com)), **Melisa Yıldız** (General Design, [melisa.17.yildiz](mailto:melisa.17.yildiz@gmail.com)) and **Eyüp Şenal** (Electronics, Mechanics, Printing, Market research for used materials, [www.eyup.senal](mailto:www.eyup.senal@gmail.com)). All of our team members have prior WRO experience in different categories.
+<table cellspacing="0" cellpadding="0" style="margin:0; padding:0; border-collapse:collapse;">
+  <tr>
+    <td style="margin:0; padding:0;"><img src="t-photos/funny.jpg" height="300"><br></td>
+    <td><img src="t-photos/official.jpg" height="300"><br></td>
+  </tr>
+</table>
+
+Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqemberli09](mailto:ehmedqemberli09@gmail.com), rightmost in the official photo), **Melisa Yıldız** (General Design, [melisa.17.yildiz](mailto:melisa.17.yildiz@gmail.com), center in the official photo) and **Eyüp Şenal** (Electronics, Mechanics, Printing, Market research for used materials, [www.eyup.senal](mailto:www.eyup.senal@gmail.com), leftmost in the official photo). All of our team members have prior WRO experience in different categories.
 
 ### Table of contents
 
@@ -101,35 +108,36 @@ Finally, the last file (`vizualiser.py`) is used to vizualize what robot is seei
 
 ![Diagram of Strategy](media/Diagram_Future_Engineers.png)
 ## Photos & Videos of robot
-<table>
+<table cellspacing="0" cellpadding="0" style="margin:0; padding:0; border-collapse:collapse;">
   <tr>
-    <td align="center" width="50%">
-      <img src="media/up.jpg" width="300"><br>
-      <b>Up</b>
-    </td>
-    <td align="center" width="50%">
-      <img src="media/down.jpg" width="300"><br>
-      <b>Down</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="media/right.jpg" width="300"><br>
+    <td align="center" colspan="2">
+      <img src="v-photos/right.jpg" height="300"><br>
       <b>Right</b>
     </td>
-    <td align="center" width="50%">
-      <img src="media/left.jpg" width="300"><br>
+    <td align="center" colspan="2">
+      <img src="v-photos/left.jpg" height="300"><br>
       <b>Left</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="50%">
-      <img src="media/front.jpg" width="300"><br>
+    <td align="center">
+      <img src="v-photos/up.jpg" height="300"><br>
+      <b>Up</b>
+    </td>
+    <td align="center">
+      <img src="v-photos/front.jpg" height="300"><br>
       <b>Front</b>
     </td>
-    <td align="center" width="50%">
-      <img src="media/back.jpg" width="300"><br>
+    <td align="center">
+      <img src="v-photos/back.jpg" height="300"><br>
       <b>Back</b>
+    </td>
+    <td align="center">
+      <img src="v-photos/down.jpg" height="300"><br>
+      <b>Down</b>
     </td>
   </tr>
 </table>
+
+[![YouTube - Open Challange](https://img.shields.io/badge/YouTube-▶️%20Open_Challange-df3e3e?logo=youtube)](https://www.youtube.com/watch?v=AVoUPSBA6hs)
+[![YouTube - Obstacle Challange](https://img.shields.io/badge/YouTube-▶️%20Obstacle_Challange-df3e3e?logo=youtube)](https://www.youtube.com/watch?v=ACrtoZzavfY)
