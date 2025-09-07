@@ -23,11 +23,8 @@ Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqe
 - [Report of used materials](#report-of-used-materials)
   - [Design materials](#design-materials)
   - [Electronic materials](#electronic-materials)
-    - [Sensors](#)
-    - [Motors](#)
 - [Robot setup](#robot-setup)
   - [Printing 3D pieces](#printing-3d-pieces)
-  - [Electronic setup](#electronic-setup)
 - [Programming Environment Setup](#programming-environment-setup)
   - [Raspberry OS configuration](#raspberry-os-configuration)
   - [Installing used modules](#installing-used-modules)
@@ -40,23 +37,27 @@ Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqe
 
 Our robot and software are designed to compete at WRO 2025 Future Engineers. We started working 2-3 months prior to the local competition. All the details are provided in the report below.
 
+Our robot is called “miav”. Miav is a ROS2-based four-wheeled mobile robot developed on the Raspberry Pi 5 platform. It also has a lidar sensor and a gyro sensor, which it uses to avoid obstacles and make accurate turns.
+
 ## Report of used materials
 ### Design materials
 
-...
+We designed all the parts of the robot we built using SolidWorks. First, we modeled the components one by one and then assembled them, which allowed us to both preview the final look and avoid surprises during the actual assembly. Thanks to the exploded view, we could clearly see all the internal parts of the robot and easily plan how everything would fit together.
 
 ### Electronic materials
 
-...
+**Raspberry Pi 5 (Main Controller):** The central processing unit running the ROS-based software. It collects data from all sensors and generates motor and servo commands.
+
+**RRC Lite Controller (Motor Controller):** Controls the encoder motor and servo motor. It converts commands from the Raspberry Pi into motor/servo movements and sends feedback data back to the Pi.
+
+**Encoder DC Motor:** Provides forward and backward motion. Through the encoder, it sends speed and position feedback to the Raspberry Pi via the RRC Lite controller.
+
+**Servo Motor:** Handles robot turns, with the servo angle controlled via the RRC Lite controller.
 
 ## Robot setup
 ### Printing 3D pieces
 
 You can find all design materials inside the models folder. Colors of the components are up to you to choose as they don't effect the behaviour of our robot.
-
-### Electronic setup
-
-...
 
 ## Programming Environment setup
 ### Raspberry OS Configuration
