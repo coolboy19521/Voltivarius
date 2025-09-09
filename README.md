@@ -1,7 +1,6 @@
 # Voltivarius
 > Our team name comes from our electric's two big obsessions. Electronics (Volt) and classic music (Ivarius).
 
-[![WRO - Future Engineers](https://img.shields.io/badge/WRO-Future_Engineers-2e52af)](https://wro-association.org/wp-content/uploads/WRO-2024-Future-Engineers-Self-Driving-Cars-General-Rules.pdf)
 [![YouTube - Race & Installing Videos](https://img.shields.io/badge/YouTube-▶️%20Race_&_Installing_Videos-df3e3e?logo=youtube)](https://www.youtube.com/playlist?list=PLiso-udvas0o-0Et_wnVIpQN-5FDyN6-4)
 
 <img src="media/nizest.png" alt="Logo" width="500">
@@ -15,7 +14,7 @@
   </tr>
 </table>
 
-Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqemberli09](mailto:ehmedqemberli09@gmail.com), rightmost in the official photo), **Melisa Yıldız** (General Design, [melisa.17.yildiz](mailto:melisa.17.yildiz@gmail.com), center in the official photo) and **Eyüp Şenal** (Electronics, Mechanics, Printing, Market research for used materials, [www.eyup.senal](mailto:www.eyup.senal@gmail.com), leftmost in the official photo). All of our team members have prior WRO experience in different categories.
+Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqemberli09](mailto:ehmedqemberli09@gmail.com), rightmost in the official photo), **Melisa Yıldız** (General Design, [melisa.17.yildiz](mailto:melisa.17.yildiz@gmail.com), center in the official photo) and **Eyüp Şenal** (Electronics, Mechanics, Printing, Market research for used materials, [www.eyup.senal](mailto:www.eyup.senal@gmail.com), leftmost in the official photo).
 
 ### Table of contents
 
@@ -28,14 +27,13 @@ Our team consists of **Əhməd Qəmbərli** (Coding, Planning strategy, [ehmedqe
 - [Programming Environment Setup](#programming-environment-setup)
   - [Raspberry OS configuration](#raspberry-os-configuration)
   - [Installing used modules](#installing-used-modules)
-  - [Running & Testing Code](#running--testing-code)
 - [Explanation of Strategy](#explanation-of-strategy)
 - [Photos & Videos of robot](#photos--videos-of-robot)
 
 
 ## Introduction
 
-Our robot and software are designed to compete at WRO 2025 Future Engineers. We started working 2-3 months prior to the local competition. All the details are provided in the report below.
+We started working 2-3 months prior to the local competition. All the details are provided in the report below.
 
 Our robot is called “miav”. Miav is a ROS2-based four-wheeled mobile robot developed on the Raspberry Pi 5 platform. It also has a lidar sensor and a gyro sensor, which it uses to avoid obstacles and make accurate turns.
 
@@ -84,27 +82,7 @@ $ sudo apt upgrade
 ```
 ### Installing used modules
 You need to build packages `rpicam-apps` and `libcamera` from source. Also make sure to install `ROS2 Jazzy` on your Raspberry Pi. After installing `ROS2 Jazzy` install `camera_ros`, `rplidar_ros` ros packages. Now you are ready to run our code.
-### Running & Testing Code
 
-To run the code you need to clone our repository:
-
-```bash
-$ git clone https://github.com/coolboy19521/Voltivarius.git
-$ cd Voltivarius/src
-```
-
-If you list all the files you will find 3 programs:
-
-```bash
-$ ls
-future_engineers.py color_selector.py vizualiser.py
-```
-
-First of these files (`future_engineers.py`) is script which we are using for our runs and it should be run on the Raspberry PI itself.
-
-Second of these files (`color_selector.py`) is used for adjusting the [HSV values](https://en.wikipedia.org/wiki/HSL_and_HSV) of colors. This script should be run on the development environment. **Important, you should have ROS2 installed on your development environment. You can follow exactly the same steps as you did for Raspberry if you are using a Linux system. But if you are on Windows or Mac please refer to this tutorial: [Windows](https://docs.ros.org/en/crystal/Installation/Windows-Install-Binary.html), [Mac](https://docs.ros.org/en/crystal/Installation/macOS-Install-Binary.html). Unfortunately, we are not able to give you instructions ourselves as we did not test on Windows and Mac platforms.**
-
-Finally, the last file (`vizualiser.py`) is used to vizualize what robot is seeing at any given time. You should run this program on your development environment as well. **Make sure ROS2 is installed on your system.**
 ## Explanation of Strategy
 
 ![Diagram of Strategy](media/Diagram_Future_Engineers.png)
