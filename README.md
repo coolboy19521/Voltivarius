@@ -963,14 +963,14 @@ $ cd Voltivarius/src
 
 ```bash
 $ ls
-future_engineers.py color_selector.py vizualiser.py
+MIAV.py run_MIAV.py color_selector_ros.py
 ```
 
-Bu faylların ilki (`future_engineers.py`) bizim raundlar üçün yazdığımız koddur və Raspberry Pi sistemində işləyir.
+Bu faylların ilki (`MIAV.py`) bizim raundlar üçün yazdığımız koddur və Raspberry Pi sistemində işləyir.
 
-Bu faylların ikincisi (`color_selector.py`) rəng tanıma dəyərlərinin kalibrasiyası üçündür. Bu fayl isttifadəçinin kompüterində işlədilməlidir.
+İkinci fayl (`run_MMIAV.py`) isə kodumuzu run etmək üçün olan ayrıca fayldır. Challange turunu etmək üçün bu faylı işə salmaq lazımdır.
 
-Axırıncı fayl (`visualizer.py`) isə robotun gördüklərini anlıq olaraq vizualizasiya etmək üçündür. Bu proqramı da istifadəçi öz kompüterində işlətməlidir.
+Bu faylların axırıncısı (`color_selector.py`) rəng tanıma dəyərlərinin kalibrasiyası üçündür. Bu fayl isttifadəçinin kompüterində işlədilməlidir.
 
 ### Strategiyanın izahı
 
