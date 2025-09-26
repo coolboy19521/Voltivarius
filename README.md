@@ -75,7 +75,6 @@ Robotumuz maneə mərhələsi üçün effektiv alqoritmdən istifadə edir. Bel�
   - [Kodun test edilməsi](#kodun-işlədilməsi-və-test-edilməsi)
 - [Strategiya](#strategiyanın-izahı)
 - [Robotun videoları](#robotun-videoları)
-- [Əlaqə](#ps-kod-elektronika-mexanika-və-s-strategiya-üçün)
 
 # Robot elektronikası
 ### Materialların siyahısı
@@ -1006,5 +1005,10 @@ Beləcə tur üçün sərf etdiyimiz zamanı **yarıya** endirmiş oluruq və s�
 İlk tur üçün strategiyamızın diaqramına nəzər yetirə bilərsiniz:
 
 ![Diagram of Strategy](media/Diagram_Future_Engineers.png)
+
+### Robotun videoları
+
+[Open Challange](https://www.youtube.com/watch?v=AVoUPSBA6hs)<br>
+[Obstacle Challange](https://www.youtube.com/watch?v=ACrtoZzavfY)
 
 **P.S. Kod, elektronika, mexanika və ya strategiya ilə bağlı hər hansısa sualınız olduqda bu GitHub hesabı və ya iştirakçıların mail hesabı ilə əlaqəyə keçə bilərsiniz.**
